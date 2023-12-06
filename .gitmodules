@@ -5,6 +5,9 @@
 [submodule "dotgen"]
 	path = dotgen
 	url = https://github.com/xiaoran831213/dotgen
+[submodule "fcp"]
+	path = fcp
+	url = https://github.com/xiaoran831213/r_fun_comp
 [submodule "plinkFile"]
 	path = plinkFile
 	url = https://github.com/xiaoran831213/plinkfile
