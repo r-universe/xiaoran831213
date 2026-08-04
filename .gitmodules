@@ -8,6 +8,9 @@
 [submodule "fcp"]
 	path = fcp
 	url = https://github.com/xiaoran831213/r_fun_comp
+[submodule "panelTool"]
+	path = panelTool
+	url = https://github.com/xiaoran831213/paneltool
 [submodule "plinkFile"]
 	path = plinkFile
 	url = https://github.com/xiaoran831213/plinkfile
